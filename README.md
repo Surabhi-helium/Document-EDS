@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--Document-EDS--Surabhi-helium.aem.page/
+- Live: https://main--Document-EDS--Surabhi.aem.live/
 
 ## Documentation
 
